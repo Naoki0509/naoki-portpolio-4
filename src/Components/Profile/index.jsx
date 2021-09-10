@@ -3,7 +3,7 @@ export function Profile() {
 		<div className="flex justify-center items-center pt-2">
 			<div>
 				<h1 className="text-5xl font-bold font-serif ">Profle</h1>
-				<div className="flex flex-row space-x-6 pt-4">
+				<div className="flex flex-row space-x-8 pt-4">
 					<div className="flex justify-center items-center h-28 w-28 rounded-full bg-blue-200 ">
 						Image
 					</div>
