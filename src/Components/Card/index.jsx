@@ -1,11 +1,14 @@
 import { Box } from "@chakra-ui/layout";
+
 export function Card() {
 	return (
-		<div className="flex items-center justify-center w-full">
-			<div>
-				<Box minh="sm" minw="sm" bgColor="tomato">
-					HELL
-				</Box>
+		<div className="flex flex-col items-center justify-center w-full">
+			<div className="">
+				<div>
+					<Box w={} bg="tomato" color="white" py={4}>
+						HELL
+					</Box>
+				</div>
 			</div>
 		</div>
 	);
