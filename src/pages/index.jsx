@@ -1,8 +1,8 @@
 import Head from "next/head";
 import { Footer } from "src/Components/Footer";
 import { Header } from "src/Components/Header";
-import { Profile } from "src/Components/Profile";
-import { Skill } from "src/Components/Skill";
+import { Profile } from "src/Components/Home/Profile";
+import { Skill } from "src/Components/Home/Skill";
 
 export default function Home() {
 	return (

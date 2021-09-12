@@ -1,6 +1,4 @@
-import { Disclosure } from "@headlessui/react";
 import Link from "next/link";
-import { FiMenu } from "react-icons/fi";
 
 export function Header() {
 	return (
