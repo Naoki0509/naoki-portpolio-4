@@ -1,5 +1,5 @@
 import Head from "next/head";
-import { Card } from "src/Components/Card";
+import { Card } from "src/Components/Blog/Home/Card";
 import { Footer } from "src/Components/Footer";
 import { Header } from "src/Components/Header";
 
