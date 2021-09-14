@@ -11,7 +11,7 @@ export default function Home() {
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
 			<Header />
-			<main className="flex flex-col items-center justify-center w-full flex-1 px-20 text-center">
+			<main className="flex flex-col items-center justify-center w-full flex-1 px-10">
 				<Card />
 			</main>
 			<Footer />
