@@ -5,13 +5,7 @@ export function Card() {
 		<div className="flex items-center justify-center">
 			<div>
 				<div className="">
-					<Center>
-						<Box minW="sm" borderWidth="1px" rounded="lg" bg="tomato" p={4}>
-							<Box></Box>
-							<Box></Box>
-							<Box></Box>
-						</Box>
-					</Center>
+					<Box></Box>
 				</div>
 			</div>
 		</div>
