@@ -1,5 +1,4 @@
 import Head from "next/head";
-import { Card } from "src/Components/Blog/Home/Card";
 import { Footer } from "src/Components/Footer";
 import { Header } from "src/Components/Header";
 
@@ -11,9 +10,7 @@ export default function Home() {
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
 			<Header />
-			<main className="flex flex-col items-center justify-center w-full flex-1 px-10">
-				<Card />
-			</main>
+			<main className="flex flex-col items-center justify-center w-full flex-1 px-10"></main>
 			<Footer />
 		</div>
 	);
